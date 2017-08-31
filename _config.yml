@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: oxo的化外之地
+title: oxo的分矿
 subtitle:
 description:
 author: oxo
@@ -80,4 +80,4 @@ deploy:
   type: git
   repo: https://github.com/oxolol/oxolol.github.io.git
   branch: master
-  message: "Delete default post"
+  message: "Add start post"
